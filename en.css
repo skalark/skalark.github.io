@@ -1,0 +1,20 @@
+.txt_certificates:after {
+    content: "CERTIFICATES";
+}
+
+.txt_programs:after {
+    content: "PROGRAMS";
+}
+
+.txt_progress:after {
+    content: "# IN PROGRESS # \A\A";
+    white-space: pre;
+}
+
+.txt_workscheduler:after {
+    content: "Planning site designed for company employees and managers. This site will allow you to quickly consult your schedule or distribute employees according to opening hours, peak hours, your employees' schedules and more!";
+}
+
+.txt_dingominisolver:after {
+    content: "Puzzle solver.";
+}

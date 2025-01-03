@@ -1,0 +1,20 @@
+.txt_certificates:after {
+    content: "CERTIFICATS";
+}
+
+.txt_programs:after {
+    content: "PROGRAMMES";
+}
+
+.txt_progress:after {
+    content: "# EN COURS # \A\A";
+    white-space: pre;
+}
+
+.txt_workscheduler:after {
+    content: "Site de planification conçu pour les employés et les gestionnaires d'entreprise. Ce site vous permettra de consulter rapidement votre horaire ou de répartir les employés selon les heures d'ouverture, les heures de pointe, les horaires de vos employés et plus encore!";
+}
+
+.txt_dingominisolver:after {
+    content: "Solveur d'un casse-tête.";
+}
